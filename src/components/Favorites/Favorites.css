@@ -1,0 +1,19 @@
+.cnt {
+    padding-top: 10px;
+}
+
+.cajita{
+    /* border: 1px black solid; */
+    padding: 1em;
+}
+
+.contenedor
+{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+
+/* .imagen-portada:hover{
+    height: 30%;
+} */
